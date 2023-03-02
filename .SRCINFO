@@ -1,14 +1,14 @@
 pkgbase = vercel
 	pkgdesc = The command line interface for Vercel
-	pkgver = 28.16.10
+	pkgver = 28.16.11
 	pkgrel = 1
 	url = https://github.com/vercel/vercel
 	arch = any
 	license = MIT
 	makedepends = jq
 	depends = npm
-	noextract = vercel-28.16.10.tgz
-	source = http://registry.npmjs.org/vercel/-/vercel-28.16.10.tgz
-	sha256sums = d1b375933ef085b5f2256c2a22d3e6ae5a7199a6f511d867565cc3abd0b6538f
+	noextract = vercel-28.16.11.tgz
+	source = http://registry.npmjs.org/vercel/-/vercel-28.16.11.tgz
+	sha256sums = 1edd3474021123fbb0c261fe5d4d1cbbc90fc8c3566ea735171e6209ba3333b2
 
 pkgname = vercel
